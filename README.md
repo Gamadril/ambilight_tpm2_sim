@@ -15,7 +15,7 @@ The `config.lua` file defines the configuration of the ambilight installation to
 
 `CORNERS` defines if the installation has additional LEDs in the corners.
 
-`HOST` defines the host name or IP address to bin the UDP server socket to.
+`HOST` defines the host name or IP address to bind the UDP server socket to.
 
 `PORT` defines the port number of the UDP server
 

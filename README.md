@@ -5,6 +5,8 @@ Acts as UDP Server and waits for incomming messages with RGB data in TPM2(.net) 
 
 I use it for testing the lightoros LED engine.
 
+![Demo Knight Rider](./ambilight-sim-knight-rider.gif)
+
 Configuration
 -------------
 The `config.lua` file defines the configuration of the ambilight installation to simulate.

@@ -1,6 +1,7 @@
 
 function love.conf(t)
     t.window.resizable = true
+    t.window.title = 'Ambilight Simulator'
     
     t.modules.audio = false
     t.modules.image = false

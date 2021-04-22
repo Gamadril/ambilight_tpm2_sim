@@ -3,7 +3,7 @@ DOTS_H = 20
 -- number of vertical LEDs
 DOTS_V = 16
 -- add LEDs in the corners or not
-CORNERS = false
+CORNERS = true
 -- UDP server host
 HOST = "127.0.0.1"
 -- UDP server port
